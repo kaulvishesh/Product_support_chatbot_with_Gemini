@@ -1,6 +1,5 @@
 # 🛍️ Product Support Chatbot with Gemini
 
-![Chatbot Interface](https://via.placeholder.com/800x400.png?text=Chatbot+Interface+Preview)
 
 ## 📋 Table of Contents
 - [Features](#-features)
